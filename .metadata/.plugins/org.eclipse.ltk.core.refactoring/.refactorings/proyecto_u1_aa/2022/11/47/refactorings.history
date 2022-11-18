@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move package &apos;com.example.demo.tradicional&apos; to &apos;proyecto_u1_bm/src/main/java/com.example.demo&apos;&#x0D;&#x0A;- Original project: &apos;proyecto_u1_aa&apos;&#x0D;&#x0A;- Destination element: &apos;proyecto_u1_bm/src/main/java/com.example.demo&apos;&#x0D;&#x0A;- Original element: &apos;proyecto_u1_aa/src/main/java/com.example.demo.tradicional&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move package" destination="=proyecto_u1_bm/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.example.demo" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.example.demo.tradicional" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1668471358596" version="1.0"/>
+</session>

@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.devtools=1
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.artifactId=proyecto_u1_bm
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.bootVersion=2.7.5
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.description=proyecto de la unidad 1 de avanzada
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.groupId=uce.gob.ec.avanzada
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.javaVersion=11
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.language=java
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.name=proyecto_u1_bm
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packageName=com.example.demo
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packaging=jar
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.type=MAVEN
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.version=1.0.0-SNAPSHOT
+org.springframework.ide.eclipse.boot.wizard.initializr.url=https\://start.spring.io\n
